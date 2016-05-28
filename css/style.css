@@ -400,12 +400,14 @@ ul.social-icons > li > a{
 	display: block;
 	text-align: center;
 }
-
-
-@media screen and (min-width: 768px){
+@media screen and (max-width: 650px){
 	.header-info {
 		margin-top: 300px;
 	}
+}
+
+@media screen and (min-width: 768px){
+	
 	.jumbotron h1, 
 	.jumbotron .h1 {
 		font-size: 75px;
