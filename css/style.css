@@ -402,7 +402,7 @@ ul.social-icons > li > a{
 }
 @media screen and (max-width: 650px){
 	.header-info {
-		margin-top: 300px;
+		margin-top: 50px;
 	}
 }
 
