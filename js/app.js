@@ -30,7 +30,7 @@ $('.menu  a').on('click', function(e) {
  function homeFullScreen() {
 
     var homeSection = $('.home');
-    var windowHeight = $(window).outerHeight()*.75;
+    var windowHeight = $(window).outerHeight()*.65;
 
     if (homeSection.hasClass('home-fullscreen')) {
 
